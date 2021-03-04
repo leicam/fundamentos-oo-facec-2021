@@ -1,0 +1,6 @@
+C:\Users\juliano.maciel\source\repos\FundamentosOO\FundamentosOO.BibliotecaDeClasses\bin\Debug\FundamentosOO.BibliotecaDeClasses.dll
+C:\Users\juliano.maciel\source\repos\FundamentosOO\FundamentosOO.BibliotecaDeClasses\bin\Debug\FundamentosOO.BibliotecaDeClasses.pdb
+C:\Users\juliano.maciel\source\repos\FundamentosOO\FundamentosOO.BibliotecaDeClasses\obj\Debug\FundamentosOO.BibliotecaDeClasses.csproj.CoreCompileInputs.cache
+C:\Users\juliano.maciel\source\repos\FundamentosOO\FundamentosOO.BibliotecaDeClasses\obj\Debug\FundamentosOO.BibliotecaDeClasses.dll
+C:\Users\juliano.maciel\source\repos\FundamentosOO\FundamentosOO.BibliotecaDeClasses\obj\Debug\FundamentosOO.BibliotecaDeClasses.pdb
+C:\Users\juliano.maciel\source\repos\FundamentosOO\FundamentosOO.BibliotecaDeClasses\obj\Debug\FundamentosOO.BibliotecaDeClasses.csprojAssemblyReference.cache

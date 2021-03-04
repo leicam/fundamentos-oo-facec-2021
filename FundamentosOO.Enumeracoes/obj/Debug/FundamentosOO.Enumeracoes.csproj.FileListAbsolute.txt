@@ -1,0 +1,7 @@
+C:\Users\juliano.maciel\source\repos\FundamentosOO\FundamentosOO.Enumeracoes\bin\Debug\FundamentosOO.Enumeracoes.exe.config
+C:\Users\juliano.maciel\source\repos\FundamentosOO\FundamentosOO.Enumeracoes\bin\Debug\FundamentosOO.Enumeracoes.exe
+C:\Users\juliano.maciel\source\repos\FundamentosOO\FundamentosOO.Enumeracoes\bin\Debug\FundamentosOO.Enumeracoes.pdb
+C:\Users\juliano.maciel\source\repos\FundamentosOO\FundamentosOO.Enumeracoes\obj\Debug\FundamentosOO.Enumeracoes.csprojAssemblyReference.cache
+C:\Users\juliano.maciel\source\repos\FundamentosOO\FundamentosOO.Enumeracoes\obj\Debug\FundamentosOO.Enumeracoes.csproj.CoreCompileInputs.cache
+C:\Users\juliano.maciel\source\repos\FundamentosOO\FundamentosOO.Enumeracoes\obj\Debug\FundamentosOO.Enumeracoes.exe
+C:\Users\juliano.maciel\source\repos\FundamentosOO\FundamentosOO.Enumeracoes\obj\Debug\FundamentosOO.Enumeracoes.pdb

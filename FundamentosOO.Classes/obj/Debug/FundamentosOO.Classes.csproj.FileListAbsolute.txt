@@ -1,0 +1,10 @@
+C:\Users\juliano.maciel\source\repos\FundamentosOO\FundamentosOO.Classes\bin\Debug\FundamentosOO.Classes.exe.config
+C:\Users\juliano.maciel\source\repos\FundamentosOO\FundamentosOO.Classes\bin\Debug\FundamentosOO.Classes.exe
+C:\Users\juliano.maciel\source\repos\FundamentosOO\FundamentosOO.Classes\bin\Debug\FundamentosOO.Classes.pdb
+C:\Users\juliano.maciel\source\repos\FundamentosOO\FundamentosOO.Classes\obj\Debug\FundamentosOO.Classes.csprojAssemblyReference.cache
+C:\Users\juliano.maciel\source\repos\FundamentosOO\FundamentosOO.Classes\obj\Debug\FundamentosOO.Classes.csproj.CoreCompileInputs.cache
+C:\Users\juliano.maciel\source\repos\FundamentosOO\FundamentosOO.Classes\obj\Debug\FundamentosOO.Classes.exe
+C:\Users\juliano.maciel\source\repos\FundamentosOO\FundamentosOO.Classes\obj\Debug\FundamentosOO.Classes.pdb
+C:\Users\juliano.maciel\source\repos\FundamentosOO\FundamentosOO.Classes\bin\Debug\FundamentosOO.BibliotecaDeClasses.dll
+C:\Users\juliano.maciel\source\repos\FundamentosOO\FundamentosOO.Classes\bin\Debug\FundamentosOO.BibliotecaDeClasses.pdb
+C:\Users\juliano.maciel\source\repos\FundamentosOO\FundamentosOO.Classes\obj\Debug\FundamentosOO.Classes.csproj.CopyComplete

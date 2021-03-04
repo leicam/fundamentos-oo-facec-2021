@@ -1,0 +1,7 @@
+C:\Users\juliano.maciel\source\repos\FundamentosOO\FundamentosOO.Estrutura\bin\Debug\FundamentosOO.Estrutura.exe.config
+C:\Users\juliano.maciel\source\repos\FundamentosOO\FundamentosOO.Estrutura\bin\Debug\FundamentosOO.Estrutura.exe
+C:\Users\juliano.maciel\source\repos\FundamentosOO\FundamentosOO.Estrutura\bin\Debug\FundamentosOO.Estrutura.pdb
+C:\Users\juliano.maciel\source\repos\FundamentosOO\FundamentosOO.Estrutura\obj\Debug\FundamentosOO.Estrutura.csprojAssemblyReference.cache
+C:\Users\juliano.maciel\source\repos\FundamentosOO\FundamentosOO.Estrutura\obj\Debug\FundamentosOO.Estrutura.csproj.CoreCompileInputs.cache
+C:\Users\juliano.maciel\source\repos\FundamentosOO\FundamentosOO.Estrutura\obj\Debug\FundamentosOO.Estrutura.exe
+C:\Users\juliano.maciel\source\repos\FundamentosOO\FundamentosOO.Estrutura\obj\Debug\FundamentosOO.Estrutura.pdb
