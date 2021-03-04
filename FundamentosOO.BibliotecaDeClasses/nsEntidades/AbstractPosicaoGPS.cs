@@ -19,6 +19,8 @@ namespace FundamentosOO.BibliotecaDeClasses.nsEntidades
             Longitude = longitude;
         }
 
+        public void SetLatitude(decimal latitude) => Latitude = latitude;
+
         public override string ToString() => $"Latitude: {Latitude} Longitude:{Longitude}";
     }
 }
