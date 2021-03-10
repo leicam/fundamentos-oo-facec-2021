@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FundamentosOO.BibliotecaDeC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FundamentosOO.TipoDeValorTipoDeReferencia", "FundamentosOO.TipoDeValorTipoDeReferencia\FundamentosOO.TipoDeValorTipoDeReferencia.csproj", "{D5944157-3C47-43EE-993E-754D2A527B2B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FundamentosOO.Metodos", "FundamentosOO.Metodos\FundamentosOO.Metodos.csproj", "{C9C6C871-C5FD-487B-8C2D-F97D382D4B05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{D5944157-3C47-43EE-993E-754D2A527B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5944157-3C47-43EE-993E-754D2A527B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5944157-3C47-43EE-993E-754D2A527B2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9C6C871-C5FD-487B-8C2D-F97D382D4B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9C6C871-C5FD-487B-8C2D-F97D382D4B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9C6C871-C5FD-487B-8C2D-F97D382D4B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9C6C871-C5FD-487B-8C2D-F97D382D4B05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
