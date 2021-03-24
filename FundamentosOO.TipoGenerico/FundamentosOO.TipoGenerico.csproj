@@ -4,16 +4,17 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3C9A9BF1-B044-42FD-A799-0E01D5A4D039}</ProjectGuid>
-    <OutputType>Library</OutputType>
-    <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>FundamentosOO.BibliotecaDeClasses</RootNamespace>
-    <AssemblyName>FundamentosOO.BibliotecaDeClasses</AssemblyName>
+    <ProjectGuid>{62644695-02E6-4FEC-94DE-56A1F8DFD481}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>FundamentosOO.TipoGenerico</RootNamespace>
+    <AssemblyName>FundamentosOO.TipoGenerico</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -23,6 +24,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
@@ -41,14 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="nsEntidades\AbstractPosicaoGPS.cs" />
-    <Compile Include="nsEntidades\ListaGenerica.cs" />
-    <Compile Include="nsEntidades\PedidoVenda.cs" />
-    <Compile Include="nsEntidades\PosicaoGPS.cs" />
-    <Compile Include="nsEntidades\PosicaoGPSComDataLeitura.cs" />
-    <Compile Include="nsInterfaces\IPedidoVendaRepository.cs" />
-    <Compile Include="nsRepositorios\PedidoVendaRepositorio.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FundamentosOO.BibliotecaDeClasses\FundamentosOO.BibliotecaDeClasses.csproj">
+      <Project>{3c9a9bf1-b044-42fd-a799-0e01d5a4d039}</Project>
+      <Name>FundamentosOO.BibliotecaDeClasses</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
